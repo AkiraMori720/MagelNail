@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815395411734",
+    "firebase_url": "https://magelnail-default-rtdb.firebaseio.com",
+    "project_id": "magelnail",
+    "storage_bucket": "magelnail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815395411734:android:d8b9bb72d364a0a0a8a237",
+        "android_client_info": {
+          "package_name": "com.zedsoft.magelnail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815395411734-ubrshve73ggtkv2r1gotd25svnul85in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zedsoft.magelnail",
+            "certificate_hash": "6499ab7d793a4bb76c4ee178b258417620b08763"
+          }
+        },
+        {
+          "client_id": "815395411734-0vpujn7otc5tmcun9l556r76g1prh7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljeO4gCqt6Lhj0FGP2l5_iHOk6TKqi6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815395411734-0vpujn7otc5tmcun9l556r76g1prh7b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815395411734-ncukrhme0jqm5a15fuf4s405qvqlts2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zedsoft.magelnail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
